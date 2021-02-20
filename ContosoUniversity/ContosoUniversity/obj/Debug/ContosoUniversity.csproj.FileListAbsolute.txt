@@ -87,3 +87,6 @@ D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUnivers
 D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
 D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
 D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.cache
+D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
