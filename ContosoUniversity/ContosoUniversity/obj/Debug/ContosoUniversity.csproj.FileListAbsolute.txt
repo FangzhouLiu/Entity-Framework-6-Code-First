@@ -81,3 +81,7 @@ D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUnivers
 D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
