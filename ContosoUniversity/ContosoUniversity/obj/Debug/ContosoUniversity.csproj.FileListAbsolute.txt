@@ -85,3 +85,5 @@ D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUnivers
 D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
 D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
 D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.cache
