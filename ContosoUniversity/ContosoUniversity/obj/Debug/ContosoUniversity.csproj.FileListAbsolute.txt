@@ -91,3 +91,4 @@ D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUnivers
 D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
 D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
 D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+D:\DotNetProjects\Entity-Framework-6-Code-First\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
